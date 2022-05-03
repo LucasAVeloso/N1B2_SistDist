@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\RemapForms\RemapForms\bin\Debug\RemapForms.exe.config
+C:\Users\lucas\source\repos\RemapForms\RemapForms\bin\Debug\RemapForms.exe
+C:\Users\lucas\source\repos\RemapForms\RemapForms\bin\Debug\RemapForms.pdb
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.Form1.resources
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.Properties.Resources.resources
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.exe
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.pdb
+C:\Users\lucas\source\repos\RemapForms\RemapForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\RemapForms\RemapForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\RemapForms\RemapForms\obj\Debug\RemapForms.csproj.CopyComplete
